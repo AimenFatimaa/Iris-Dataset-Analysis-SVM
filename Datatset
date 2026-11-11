@@ -1,0 +1,21 @@
+# Dataset
+
+**Dataset Name:** Iris Dataset
+
+**Source:** UCI Machine Learning Repository
+
+**Dataset Link:**  
+https://archive.ics.uci.edu/dataset/53/iris
+
+## Dataset Description
+
+The Iris dataset contains 150 flower samples belonging to three species: Setosa, Versicolor, and Virginica.
+
+It includes four numerical input features:
+
+- Sepal length
+- Sepal width
+- Petal length
+- Petal width
+
+The target variable represents the flower species.
